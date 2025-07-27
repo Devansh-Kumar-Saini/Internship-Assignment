@@ -86,5 +86,3 @@ Ask a question: What is the loan amount for ID 12345?
 - Improve response quality by fine-tuning the language model.
 - Add a web-based interface for easier interaction.
 
----
-
